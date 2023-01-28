@@ -4,7 +4,7 @@ a=eval(input())
 
 b=[]
 
-for i in a
+for i in a:
 
     x="{:,}".format(i) 
 
